@@ -1,0 +1,119 @@
+body {
+	font-family: Arial;
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+	height: 450px;
+	width: 100%;
+}
+
+.header .menu {
+	background-color: #424242;
+	height: 15%;
+	color: #ffffff;
+	padding: 5px;
+	width: 100%;
+}
+
+.header .menu table {
+	color: #ffffff;
+	font-size: 20px;
+}
+
+.header .header-logo {
+	text-align: center;
+	width: 100%;
+}
+
+.header .header-logo span {
+	display: block;
+	float: center;
+}
+
+.header .header-logo img {
+	height: 80%;
+	width: 90%;
+}
+
+.contenido {
+	height: 600px;
+	text-align: center;
+	width: 100%;
+}
+
+.contenido table {
+	text-align: center;
+}
+
+.contenido .titulo-bienvenido {
+	font-size: 20px;
+	font-weight: bold;
+	height: 60px;
+}
+
+.contenido .titulo-familia {
+	font-size: 24px;
+	height: 100px;
+}
+
+.contenido .mascotaperfecta img {
+	height: 30%;
+	width: 50%;
+}
+
+.contenido .carino img {
+	height: 40%;
+	width: 60%;
+}
+
+.contenido .caminar img {
+	height: 15%;
+	width: 50%;
+}
+
+.pie {
+	background-color: #424242;
+	color: #ffffff;
+	height: 200px;
+	width: 100%;
+}
+
+.pie table {
+	color: #ffffff;
+}
+
+.pie table tr td {
+	text-align: center;
+}
+
+.pie .lola img {
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+
+.pie .doris img {
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+
+.pie .sam img {
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+
+.pie .max img {
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+
+.pie .tom img {
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
